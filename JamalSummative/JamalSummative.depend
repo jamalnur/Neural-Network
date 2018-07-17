@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1497928563 source:c:\users\jamal\desktop\school\ics4ui\jamalsummative\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cctype>
+	"NetwokMaker.h"
+	"NetwokMaker.cpp"
+	"NNTraining.h"
+	"NNTraining.cpp"
+	"InputReader.h"
+	"InputReader.cpp"
+
+1497928865 c:\users\jamal\desktop\school\ics4ui\jamalsummative\netwokmaker.h
+	<vector>
+	"NNTraining.h"
+	"InputReader.h"
+
+1497928563 c:\users\jamal\desktop\school\ics4ui\jamalsummative\nntraining.h
+	<vector>
+	"NetwokMaker.h"
+	"InputReader.h"
+
+1497928604 c:\users\jamal\desktop\school\ics4ui\jamalsummative\inputreader.h
+	"NetwokMaker.h"
+
+1497928353 c:\users\jamal\desktop\school\ics4ui\jamalsummative\netwokmaker.cpp
+	<iostream>
+	"NetwokMaker.h"
+	<cstdlib>
+	<vector>
+	<math.h>
+	<sstream>
+	<cctype>
+
+1497928738 c:\users\jamal\desktop\school\ics4ui\jamalsummative\nntraining.cpp
+	<iostream>
+	"NetwokMaker.h"
+	"NNTraining.h"
+	<cstdlib>
+	<vector>
+	<math.h>
+
+1497928604 c:\users\jamal\desktop\school\ics4ui\jamalsummative\inputreader.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cctype>
+	<sstream>
+	"NetwokMaker.h"
+	"NNTraining.h"
+	"InputReader.h"
+
